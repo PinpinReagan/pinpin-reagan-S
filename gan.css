@@ -1,5 +1,5 @@
 body{
-    background-color:lightgray;
+    background-color:brown;
 
 }
 
@@ -55,4 +55,13 @@ a:hover{
    padding-top: 20px; 
   
    
+}
+@font-face {
+    font-family: nos;
+    src: url(fonts/Gasalt-Black.ttf);
+}
+.name{
+    font-family: nos;
+    margin-top: 3px;
+    
 }
